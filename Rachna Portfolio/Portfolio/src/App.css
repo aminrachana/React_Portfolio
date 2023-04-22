@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+.name{
+    color:#31de79;
+}
+
+.banner {
+    height: 700px;
+    color: #05364d;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button {
+    background: linear-gradient(135deg, #9ff669 0%, #31de79 100%);
+    border: 1px solid #31de79;
+    box-shadow: 0px 24px 36px -11px rgba(0, 0, 0, 0.09);
+    color: #fff;
+    border-radius: 30px !important;
+}
+
+.card {
+    background-color: #05364d !important;
+    color: #fff !important;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important;
+    padding: 30px 25px;
+}
+
+.h2-name{
+    color:#05364d;
+}
+
+.r-name{
+    color:#31de79;
+}
+
+.green-bg {
+    background: linear-gradient(135deg, #9ff669 0%, #31de79 100%);
+    box-shadow: 0px 24px 36px -11px rgba(0, 0, 0, 0.09);
+    padding: 30px;
+}
+
+section {
+    padding: 80px 0;
+}
+
+.project-description {
+    background: #05364d;
+    color: #fff;
+}
+
+.certificate-description {
+    background: linear-gradient(135deg, #9ff669 0%, #31de79 100%);
+    color: #fff;
+}
+
+#about {
+    background-color: #05364d;
+    color: #fff;
+}
+
+#certificates .card {
+    padding: 15px 10px;
+}
+
+.bullet {
+    height: 60px;
+    width: 60px;
+    margin: auto 50px;
+}
+
+.bullet-card {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.bullet-card .card {
+    flex: 1;
+}
+
+#about .topic,
+#about .desc {
+    color: #797979;
+}
+
+#footer {
+    background-color: #021117;
+    padding: 100px;
+}
+
+#copyright {
+    color: #fff;
+}
+
