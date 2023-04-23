@@ -1,3 +1,4 @@
 ﻿# React_Portfolio
 
-Portfolio URL: [React-Portfolio-Website](https://rachana-manali1321.vercel.app/)
+<strong>Portfolio URL:</strong> [React-Portfolio-Website](https://rachana-manali1321.vercel.app/)
+[https://rachana-manali1321.vercel.app/]
